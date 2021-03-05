@@ -12,7 +12,7 @@ To get started with the [AVT9152 EVB][evb_link], please refer to [AVT9152 EVB Qu
 
 
 
-
+ytyutyutyutyutu
 [evb_link]:
 https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/avnet-avt9152/avt9152kit-eval-kit
 
